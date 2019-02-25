@@ -6,6 +6,10 @@
   "engines": {
     "node": ">=6"
   },
+  "files": [
+    "src/insert-at-the-caret.js",
+    "LICENSE"
+  ],
   "scripts": {
     "test": "npm run test:unit && npm run test:format",
     "test:unit": "jest",
