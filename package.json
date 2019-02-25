@@ -16,8 +16,8 @@
     "pub": "npm run test && np"
   },
   "devDependencies": {
-    "jest": "^23.6.0",
-    "np": "^3.1.0",
+    "jest": "^24.1.0",
+    "np": "^4.0.2",
     "prettier": "^1.9.2"
   },
   "jest": {
