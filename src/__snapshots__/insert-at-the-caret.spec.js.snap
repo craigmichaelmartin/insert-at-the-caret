@@ -1,0 +1,8496 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`function 1`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url)",
+}
+`;
+
+exports[`function 2`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url)",
+}
+`;
+
+exports[`function 3`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url)",
+}
+`;
+
+exports[`function 4`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url)",
+}
+`;
+
+exports[`function 5`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url)",
+}
+`;
+
+exports[`function 6`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) ",
+}
+`;
+
+exports[`function 7`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 8`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 9`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 10`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 11`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 12`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 13`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 14`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) ",
+}
+`;
+
+exports[`function 15`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 16`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 17`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 18`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) ",
+}
+`;
+
+exports[`function 19`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 20`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 21`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 22`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 23`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 24`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 25`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 26`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) words",
+}
+`;
+
+exports[`function 27`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) words",
+}
+`;
+
+exports[`function 28`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) words",
+}
+`;
+
+exports[`function 29`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) words",
+}
+`;
+
+exports[`function 30`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) words",
+}
+`;
+
+exports[`function 31`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) words ",
+}
+`;
+
+exports[`function 32`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) words
+",
+}
+`;
+
+exports[`function 33`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) words 
+",
+}
+`;
+
+exports[`function 34`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 0,
+  "value": "[Link Text](Link Url) words
+ ",
+}
+`;
+
+exports[`function 35`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) words ",
+}
+`;
+
+exports[`function 36`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) words
+",
+}
+`;
+
+exports[`function 37`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) words 
+",
+}
+`;
+
+exports[`function 38`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": " [Link Text](Link Url) words
+ ",
+}
+`;
+
+exports[`function 39`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) words ",
+}
+`;
+
+exports[`function 40`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) words
+",
+}
+`;
+
+exports[`function 41`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) words 
+",
+}
+`;
+
+exports[`function 42`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 1,
+  "value": "
+[Link Text](Link Url) words
+ ",
+}
+`;
+
+exports[`function 43`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) words ",
+}
+`;
+
+exports[`function 44`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) words
+",
+}
+`;
+
+exports[`function 45`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) words 
+",
+}
+`;
+
+exports[`function 46`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": " 
+[Link Text](Link Url) words
+ ",
+}
+`;
+
+exports[`function 47`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) words ",
+}
+`;
+
+exports[`function 48`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) words
+",
+}
+`;
+
+exports[`function 49`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) words 
+",
+}
+`;
+
+exports[`function 50`] = `
+Object {
+  "selectionEnd": 23,
+  "selectionStart": 2,
+  "value": "
+ [Link Text](Link Url) words
+ ",
+}
+`;
+
+exports[`function 51`] = `
+Object {
+  "selectionEnd": 17,
+  "selectionStart": 0,
+  "value": "[words](Link Url)",
+}
+`;
+
+exports[`function 52`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 1,
+  "value": " [words](Link Url)",
+}
+`;
+
+exports[`function 53`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 1,
+  "value": "
+[words](Link Url)",
+}
+`;
+
+exports[`function 54`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 2,
+  "value": " 
+[words](Link Url)",
+}
+`;
+
+exports[`function 55`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 2,
+  "value": "
+ [words](Link Url)",
+}
+`;
+
+exports[`function 56`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 0,
+  "value": "[words ](Link Url)",
+}
+`;
+
+exports[`function 57`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 0,
+  "value": "[words
+](Link Url)",
+}
+`;
+
+exports[`function 58`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 0,
+  "value": "[words ](Link Url)
+",
+}
+`;
+
+exports[`function 59`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 0,
+  "value": "[words
+](Link Url) ",
+}
+`;
+
+exports[`function 60`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": " [words ](Link Url)",
+}
+`;
+
+exports[`function 61`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": " [words
+](Link Url)",
+}
+`;
+
+exports[`function 62`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": " [words ](Link Url)
+",
+}
+`;
+
+exports[`function 63`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": " [words
+](Link Url) ",
+}
+`;
+
+exports[`function 64`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": "
+[words ](Link Url)",
+}
+`;
+
+exports[`function 65`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": "
+[words
+](Link Url)",
+}
+`;
+
+exports[`function 66`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": "
+[words ](Link Url)
+",
+}
+`;
+
+exports[`function 67`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 1,
+  "value": "
+[words
+](Link Url) ",
+}
+`;
+
+exports[`function 68`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": " 
+[words ](Link Url)",
+}
+`;
+
+exports[`function 69`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": " 
+[words
+](Link Url)",
+}
+`;
+
+exports[`function 70`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": " 
+[words ](Link Url)
+",
+}
+`;
+
+exports[`function 71`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": " 
+[words
+](Link Url) ",
+}
+`;
+
+exports[`function 72`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": "
+ [words ](Link Url)",
+}
+`;
+
+exports[`function 73`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": "
+ [words
+](Link Url)",
+}
+`;
+
+exports[`function 74`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": "
+ [words ](Link Url)
+",
+}
+`;
+
+exports[`function 75`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 2,
+  "value": "
+ [words
+](Link Url) ",
+}
+`;
+
+exports[`function 76`] = `
+Object {
+  "selectionEnd": 27,
+  "selectionStart": 6,
+  "value": "words [Link Text](Link Url)",
+}
+`;
+
+exports[`function 77`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": " words [Link Text](Link Url)",
+}
+`;
+
+exports[`function 78`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": "
+words [Link Text](Link Url)",
+}
+`;
+
+exports[`function 79`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": " 
+words [Link Text](Link Url)",
+}
+`;
+
+exports[`function 80`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": "
+ words [Link Text](Link Url)",
+}
+`;
+
+exports[`function 81`] = `
+Object {
+  "selectionEnd": 27,
+  "selectionStart": 6,
+  "value": "words [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 82`] = `
+Object {
+  "selectionEnd": 27,
+  "selectionStart": 6,
+  "value": "words [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 83`] = `
+Object {
+  "selectionEnd": 27,
+  "selectionStart": 6,
+  "value": "words [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 84`] = `
+Object {
+  "selectionEnd": 27,
+  "selectionStart": 6,
+  "value": "words [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 85`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": " words [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 86`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": " words [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 87`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": " words [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 88`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": " words [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 89`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": "
+words [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 90`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": "
+words [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 91`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": "
+words [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 92`] = `
+Object {
+  "selectionEnd": 28,
+  "selectionStart": 7,
+  "value": "
+words [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 93`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": " 
+words [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 94`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": " 
+words [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 95`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": " 
+words [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 96`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": " 
+words [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`function 97`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": "
+ words [Link Text](Link Url) ",
+}
+`;
+
+exports[`function 98`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": "
+ words [Link Text](Link Url)
+",
+}
+`;
+
+exports[`function 99`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": "
+ words [Link Text](Link Url) 
+",
+}
+`;
+
+exports[`function 100`] = `
+Object {
+  "selectionEnd": 29,
+  "selectionStart": 8,
+  "value": "
+ words [Link Text](Link Url)
+ ",
+}
+`;
+
+exports[`newLineChars 1`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- ",
+}
+`;
+
+exports[`newLineChars 2`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- ",
+}
+`;
+
+exports[`newLineChars 3`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- ",
+}
+`;
+
+exports[`newLineChars 4`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- ",
+}
+`;
+
+exports[`newLineChars 5`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- ",
+}
+`;
+
+exports[`newLineChars 6`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+-  ",
+}
+`;
+
+exports[`newLineChars 7`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 
+",
+}
+`;
+
+exports[`newLineChars 8`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+-  
+",
+}
+`;
+
+exports[`newLineChars 9`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 
+ ",
+}
+`;
+
+exports[`newLineChars 10`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+-  ",
+}
+`;
+
+exports[`newLineChars 11`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 
+",
+}
+`;
+
+exports[`newLineChars 12`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+-  
+",
+}
+`;
+
+exports[`newLineChars 13`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 
+ ",
+}
+`;
+
+exports[`newLineChars 14`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+-  ",
+}
+`;
+
+exports[`newLineChars 15`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 
+",
+}
+`;
+
+exports[`newLineChars 16`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+-  
+",
+}
+`;
+
+exports[`newLineChars 17`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 
+ ",
+}
+`;
+
+exports[`newLineChars 18`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+-  ",
+}
+`;
+
+exports[`newLineChars 19`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 
+",
+}
+`;
+
+exports[`newLineChars 20`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+-  
+",
+}
+`;
+
+exports[`newLineChars 21`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 
+ ",
+}
+`;
+
+exports[`newLineChars 22`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+-  ",
+}
+`;
+
+exports[`newLineChars 23`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 
+",
+}
+`;
+
+exports[`newLineChars 24`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+-  
+",
+}
+`;
+
+exports[`newLineChars 25`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 
+ ",
+}
+`;
+
+exports[`newLineChars 26`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - ",
+}
+`;
+
+exports[`newLineChars 27`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - ",
+}
+`;
+
+exports[`newLineChars 28`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - ",
+}
+`;
+
+exports[`newLineChars 29`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - ",
+}
+`;
+
+exports[`newLineChars 30`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - ",
+}
+`;
+
+exports[`newLineChars 31`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    -  ",
+}
+`;
+
+exports[`newLineChars 32`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 33`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 34`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 35`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    -  ",
+}
+`;
+
+exports[`newLineChars 36`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 37`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 38`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 39`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    -  ",
+}
+`;
+
+exports[`newLineChars 40`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 41`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 42`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 43`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    -  ",
+}
+`;
+
+exports[`newLineChars 44`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 45`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 46`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 47`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    -  ",
+}
+`;
+
+exports[`newLineChars 48`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 49`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 50`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 51`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 52`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 53`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 54`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 55`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 56`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 57`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 58`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 59`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "- 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 60`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 61`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 62`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 63`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " - 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 64`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 65`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 66`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 67`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+- 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 68`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 69`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 70`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 71`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 
+- 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 72`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 73`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 74`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 75`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+ - 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 76`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- - This is it",
+}
+`;
+
+exports[`newLineChars 77`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- - This is it",
+}
+`;
+
+exports[`newLineChars 78`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- - This is it",
+}
+`;
+
+exports[`newLineChars 79`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- - This is it",
+}
+`;
+
+exports[`newLineChars 80`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- - This is it",
+}
+`;
+
+exports[`newLineChars 81`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- - This is it ",
+}
+`;
+
+exports[`newLineChars 82`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- - This is it
+",
+}
+`;
+
+exports[`newLineChars 83`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- - This is it 
+",
+}
+`;
+
+exports[`newLineChars 84`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 85`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- - This is it ",
+}
+`;
+
+exports[`newLineChars 86`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- - This is it
+",
+}
+`;
+
+exports[`newLineChars 87`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- - This is it 
+",
+}
+`;
+
+exports[`newLineChars 88`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 89`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- - This is it ",
+}
+`;
+
+exports[`newLineChars 90`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- - This is it
+",
+}
+`;
+
+exports[`newLineChars 91`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- - This is it 
+",
+}
+`;
+
+exports[`newLineChars 92`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 93`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- - This is it ",
+}
+`;
+
+exports[`newLineChars 94`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- - This is it
+",
+}
+`;
+
+exports[`newLineChars 95`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- - This is it 
+",
+}
+`;
+
+exports[`newLineChars 96`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 97`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- - This is it ",
+}
+`;
+
+exports[`newLineChars 98`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- - This is it
+",
+}
+`;
+
+exports[`newLineChars 99`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- - This is it 
+",
+}
+`;
+
+exports[`newLineChars 100`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 101`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "- This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 102`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " - This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 103`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+- This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 104`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 
+- This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 105`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+ - This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 106`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "- This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 107`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "- This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 108`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "- This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 109`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "- This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 110`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " - This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 111`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " - This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 112`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " - This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 113`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " - This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 114`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+- This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 115`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+- This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 116`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+- This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 117`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+- This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 118`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 
+- This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 119`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 
+- This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 120`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 
+- This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 121`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 
+- This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 122`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+ - This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 123`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+ - This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 124`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+ - This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 125`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+ - This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 126`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - ",
+}
+`;
+
+exports[`newLineChars 127`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - ",
+}
+`;
+
+exports[`newLineChars 128`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - ",
+}
+`;
+
+exports[`newLineChars 129`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - ",
+}
+`;
+
+exports[`newLineChars 130`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - ",
+}
+`;
+
+exports[`newLineChars 131`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    -  ",
+}
+`;
+
+exports[`newLineChars 132`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 133`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 134`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 135`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    -  ",
+}
+`;
+
+exports[`newLineChars 136`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 137`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 138`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 139`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    -  ",
+}
+`;
+
+exports[`newLineChars 140`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 141`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 142`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 143`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    -  ",
+}
+`;
+
+exports[`newLineChars 144`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 145`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 146`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 147`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    -  ",
+}
+`;
+
+exports[`newLineChars 148`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - 
+",
+}
+`;
+
+exports[`newLineChars 149`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    -  
+",
+}
+`;
+
+exports[`newLineChars 150`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 151`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 152`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 153`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 154`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 155`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - This is it",
+}
+`;
+
+exports[`newLineChars 156`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 157`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 158`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 159`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "1. 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 160`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 161`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 162`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 163`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " 1. 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 164`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 165`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 166`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 167`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+1. 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 168`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 169`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 170`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 171`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+1. 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 172`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - This is it ",
+}
+`;
+
+exports[`newLineChars 173`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - This is it
+",
+}
+`;
+
+exports[`newLineChars 174`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - This is it 
+",
+}
+`;
+
+exports[`newLineChars 175`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ 1. 
+    - This is it
+ ",
+}
+`;
+
+exports[`newLineChars 176`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 1. This is it",
+}
+`;
+
+exports[`newLineChars 177`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 1. This is it",
+}
+`;
+
+exports[`newLineChars 178`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 1. This is it",
+}
+`;
+
+exports[`newLineChars 179`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 1. This is it",
+}
+`;
+
+exports[`newLineChars 180`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 1. This is it",
+}
+`;
+
+exports[`newLineChars 181`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 1. This is it ",
+}
+`;
+
+exports[`newLineChars 182`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 1. This is it
+",
+}
+`;
+
+exports[`newLineChars 183`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 1. This is it 
+",
+}
+`;
+
+exports[`newLineChars 184`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+- 1. This is it
+ ",
+}
+`;
+
+exports[`newLineChars 185`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 1. This is it ",
+}
+`;
+
+exports[`newLineChars 186`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 1. This is it
+",
+}
+`;
+
+exports[`newLineChars 187`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 1. This is it 
+",
+}
+`;
+
+exports[`newLineChars 188`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+- 1. This is it
+ ",
+}
+`;
+
+exports[`newLineChars 189`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 1. This is it ",
+}
+`;
+
+exports[`newLineChars 190`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 1. This is it
+",
+}
+`;
+
+exports[`newLineChars 191`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 1. This is it 
+",
+}
+`;
+
+exports[`newLineChars 192`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+
+- 1. This is it
+ ",
+}
+`;
+
+exports[`newLineChars 193`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 1. This is it ",
+}
+`;
+
+exports[`newLineChars 194`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 1. This is it
+",
+}
+`;
+
+exports[`newLineChars 195`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 1. This is it 
+",
+}
+`;
+
+exports[`newLineChars 196`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+
+- 1. This is it
+ ",
+}
+`;
+
+exports[`newLineChars 197`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 1. This is it ",
+}
+`;
+
+exports[`newLineChars 198`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 1. This is it
+",
+}
+`;
+
+exports[`newLineChars 199`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 1. This is it 
+",
+}
+`;
+
+exports[`newLineChars 200`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ 
+- 1. This is it
+ ",
+}
+`;
+
+exports[`newLineChars 201`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "1. This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 202`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 1. This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 203`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+1. This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 204`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": " 
+1. This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 205`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+ 1. This is it
+    - ",
+}
+`;
+
+exports[`newLineChars 206`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "1. This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 207`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "1. This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 208`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "1. This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 209`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "1. This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 210`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 1. This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 211`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 1. This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 212`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 1. This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 213`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": " 1. This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 214`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+1. This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 215`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+1. This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 216`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+1. This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 217`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "
+1. This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 218`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": " 
+1. This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 219`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": " 
+1. This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 220`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": " 
+1. This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 221`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": " 
+1. This is it
+    - 
+ ",
+}
+`;
+
+exports[`newLineChars 222`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+ 1. This is it
+    -  ",
+}
+`;
+
+exports[`newLineChars 223`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+ 1. This is it
+    - 
+",
+}
+`;
+
+exports[`newLineChars 224`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+ 1. This is it
+    -  
+",
+}
+`;
+
+exports[`newLineChars 225`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+ 1. This is it
+    - 
+ ",
+}
+`;
+
+exports[`startLineChars 1`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### ",
+}
+`;
+
+exports[`startLineChars 2`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  ",
+}
+`;
+
+exports[`startLineChars 3`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### ",
+}
+`;
+
+exports[`startLineChars 4`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### ",
+}
+`;
+
+exports[`startLineChars 5`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  ",
+}
+`;
+
+exports[`startLineChars 6`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "####  ",
+}
+`;
+
+exports[`startLineChars 7`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### 
+",
+}
+`;
+
+exports[`startLineChars 8`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "####  
+",
+}
+`;
+
+exports[`startLineChars 9`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### 
+ ",
+}
+`;
+
+exports[`startLineChars 10`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####   ",
+}
+`;
+
+exports[`startLineChars 11`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  
+",
+}
+`;
+
+exports[`startLineChars 12`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####   
+",
+}
+`;
+
+exports[`startLineChars 13`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  
+ ",
+}
+`;
+
+exports[`startLineChars 14`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+####  ",
+}
+`;
+
+exports[`startLineChars 15`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### 
+",
+}
+`;
+
+exports[`startLineChars 16`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+####  
+",
+}
+`;
+
+exports[`startLineChars 17`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### 
+ ",
+}
+`;
+
+exports[`startLineChars 18`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+####  ",
+}
+`;
+
+exports[`startLineChars 19`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### 
+",
+}
+`;
+
+exports[`startLineChars 20`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+####  
+",
+}
+`;
+
+exports[`startLineChars 21`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### 
+ ",
+}
+`;
+
+exports[`startLineChars 22`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####   ",
+}
+`;
+
+exports[`startLineChars 23`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  
+",
+}
+`;
+
+exports[`startLineChars 24`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####   
+",
+}
+`;
+
+exports[`startLineChars 25`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  
+ ",
+}
+`;
+
+exports[`startLineChars 26`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## ",
+}
+`;
+
+exports[`startLineChars 27`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## ",
+}
+`;
+
+exports[`startLineChars 28`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## ",
+}
+`;
+
+exports[`startLineChars 29`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## ",
+}
+`;
+
+exports[`startLineChars 30`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## ",
+}
+`;
+
+exports[`startLineChars 31`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ##  ",
+}
+`;
+
+exports[`startLineChars 32`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## 
+",
+}
+`;
+
+exports[`startLineChars 33`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ##  
+",
+}
+`;
+
+exports[`startLineChars 34`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## 
+ ",
+}
+`;
+
+exports[`startLineChars 35`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ##  ",
+}
+`;
+
+exports[`startLineChars 36`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## 
+",
+}
+`;
+
+exports[`startLineChars 37`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ##  
+",
+}
+`;
+
+exports[`startLineChars 38`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## 
+ ",
+}
+`;
+
+exports[`startLineChars 39`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ##  ",
+}
+`;
+
+exports[`startLineChars 40`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## 
+",
+}
+`;
+
+exports[`startLineChars 41`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ##  
+",
+}
+`;
+
+exports[`startLineChars 42`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## 
+ ",
+}
+`;
+
+exports[`startLineChars 43`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ##  ",
+}
+`;
+
+exports[`startLineChars 44`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## 
+",
+}
+`;
+
+exports[`startLineChars 45`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ##  
+",
+}
+`;
+
+exports[`startLineChars 46`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## 
+ ",
+}
+`;
+
+exports[`startLineChars 47`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ##  ",
+}
+`;
+
+exports[`startLineChars 48`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## 
+",
+}
+`;
+
+exports[`startLineChars 49`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ##  
+",
+}
+`;
+
+exports[`startLineChars 50`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## 
+ ",
+}
+`;
+
+exports[`startLineChars 51`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## This is it",
+}
+`;
+
+exports[`startLineChars 52`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## This is it",
+}
+`;
+
+exports[`startLineChars 53`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## This is it",
+}
+`;
+
+exports[`startLineChars 54`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## This is it",
+}
+`;
+
+exports[`startLineChars 55`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## This is it",
+}
+`;
+
+exports[`startLineChars 56`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 57`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 58`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 59`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 60`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## This is it ",
+}
+`;
+
+exports[`startLineChars 61`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## This is it
+",
+}
+`;
+
+exports[`startLineChars 62`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 63`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "####  ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 64`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 65`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 66`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 67`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 9,
+  "value": "
+#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 68`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 69`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 70`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 71`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": " 
+#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 72`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## This is it ",
+}
+`;
+
+exports[`startLineChars 73`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## This is it
+",
+}
+`;
+
+exports[`startLineChars 74`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 75`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "
+####  ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 76`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### ## This is it",
+}
+`;
+
+exports[`startLineChars 77`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  ## This is it",
+}
+`;
+
+exports[`startLineChars 78`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### ## This is it",
+}
+`;
+
+exports[`startLineChars 79`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### ## This is it",
+}
+`;
+
+exports[`startLineChars 80`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  ## This is it",
+}
+`;
+
+exports[`startLineChars 81`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 82`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 83`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 84`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 85`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  ## This is it ",
+}
+`;
+
+exports[`startLineChars 86`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  ## This is it
+",
+}
+`;
+
+exports[`startLineChars 87`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 88`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 89`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 90`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 91`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 92`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 93`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 94`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 95`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 96`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 97`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  ## This is it ",
+}
+`;
+
+exports[`startLineChars 98`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  ## This is it
+",
+}
+`;
+
+exports[`startLineChars 99`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 100`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 101`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 18,
+  "value": "#### ## This is it",
+}
+`;
+
+exports[`startLineChars 102`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "####  ## This is it",
+}
+`;
+
+exports[`startLineChars 103`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "
+#### ## This is it",
+}
+`;
+
+exports[`startLineChars 104`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " 
+#### ## This is it",
+}
+`;
+
+exports[`startLineChars 105`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+####  ## This is it",
+}
+`;
+
+exports[`startLineChars 106`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 18,
+  "value": "#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 107`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 18,
+  "value": "#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 108`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 18,
+  "value": "#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 109`] = `
+Object {
+  "selectionEnd": 18,
+  "selectionStart": 18,
+  "value": "#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 110`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "####  ## This is it ",
+}
+`;
+
+exports[`startLineChars 111`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "####  ## This is it
+",
+}
+`;
+
+exports[`startLineChars 112`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "####  ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 113`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "####  ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 114`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "
+#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 115`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "
+#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 116`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "
+#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 117`] = `
+Object {
+  "selectionEnd": 19,
+  "selectionStart": 19,
+  "value": "
+#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 118`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " 
+#### ## This is it ",
+}
+`;
+
+exports[`startLineChars 119`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " 
+#### ## This is it
+",
+}
+`;
+
+exports[`startLineChars 120`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " 
+#### ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 121`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": " 
+#### ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 122`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+####  ## This is it ",
+}
+`;
+
+exports[`startLineChars 123`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+####  ## This is it
+",
+}
+`;
+
+exports[`startLineChars 124`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+####  ## This is it 
+",
+}
+`;
+
+exports[`startLineChars 125`] = `
+Object {
+  "selectionEnd": 20,
+  "selectionStart": 20,
+  "value": "
+####  ## This is it
+ ",
+}
+`;
+
+exports[`startLineChars 126`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "",
+}
+`;
+
+exports[`startLineChars 127`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### ",
+}
+`;
+
+exports[`startLineChars 128`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+",
+}
+`;
+
+exports[`startLineChars 129`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+",
+}
+`;
+
+exports[`startLineChars 130`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### ",
+}
+`;
+
+exports[`startLineChars 131`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": " ",
+}
+`;
+
+exports[`startLineChars 132`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "
+",
+}
+`;
+
+exports[`startLineChars 133`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": " 
+",
+}
+`;
+
+exports[`startLineChars 134`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "
+ ",
+}
+`;
+
+exports[`startLineChars 135`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  ####  ",
+}
+`;
+
+exports[`startLineChars 136`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### 
+",
+}
+`;
+
+exports[`startLineChars 137`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  ####  
+",
+}
+`;
+
+exports[`startLineChars 138`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### 
+ ",
+}
+`;
+
+exports[`startLineChars 139`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+ ",
+}
+`;
+
+exports[`startLineChars 140`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+
+",
+}
+`;
+
+exports[`startLineChars 141`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+ 
+",
+}
+`;
+
+exports[`startLineChars 142`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+
+ ",
+}
+`;
+
+exports[`startLineChars 143`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+ ",
+}
+`;
+
+exports[`startLineChars 144`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+
+",
+}
+`;
+
+exports[`startLineChars 145`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+ 
+",
+}
+`;
+
+exports[`startLineChars 146`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+
+ ",
+}
+`;
+
+exports[`startLineChars 147`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  ####  ",
+}
+`;
+
+exports[`startLineChars 148`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### 
+",
+}
+`;
+
+exports[`startLineChars 149`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  ####  
+",
+}
+`;
+
+exports[`startLineChars 150`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### 
+ ",
+}
+`;
+
+exports[`startLineChars 151`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "This is it",
+}
+`;
+
+exports[`startLineChars 152`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### This is it",
+}
+`;
+
+exports[`startLineChars 153`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+This is it",
+}
+`;
+
+exports[`startLineChars 154`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+This is it",
+}
+`;
+
+exports[`startLineChars 155`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### This is it",
+}
+`;
+
+exports[`startLineChars 156`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "This is it ",
+}
+`;
+
+exports[`startLineChars 157`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "This is it
+",
+}
+`;
+
+exports[`startLineChars 158`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "This is it 
+",
+}
+`;
+
+exports[`startLineChars 159`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "This is it
+ ",
+}
+`;
+
+exports[`startLineChars 160`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### This is it ",
+}
+`;
+
+exports[`startLineChars 161`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### This is it
+",
+}
+`;
+
+exports[`startLineChars 162`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 163`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "####  #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 164`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+This is it ",
+}
+`;
+
+exports[`startLineChars 165`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+This is it
+",
+}
+`;
+
+exports[`startLineChars 166`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+This is it 
+",
+}
+`;
+
+exports[`startLineChars 167`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+This is it
+ ",
+}
+`;
+
+exports[`startLineChars 168`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+This is it ",
+}
+`;
+
+exports[`startLineChars 169`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+This is it
+",
+}
+`;
+
+exports[`startLineChars 170`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+This is it 
+",
+}
+`;
+
+exports[`startLineChars 171`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+This is it
+ ",
+}
+`;
+
+exports[`startLineChars 172`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### This is it ",
+}
+`;
+
+exports[`startLineChars 173`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### This is it
+",
+}
+`;
+
+exports[`startLineChars 174`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 175`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+####  #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 176`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### #### This is it",
+}
+`;
+
+exports[`startLineChars 177`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  #### This is it",
+}
+`;
+
+exports[`startLineChars 178`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### #### This is it",
+}
+`;
+
+exports[`startLineChars 179`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### #### This is it",
+}
+`;
+
+exports[`startLineChars 180`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  #### This is it",
+}
+`;
+
+exports[`startLineChars 181`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### #### This is it ",
+}
+`;
+
+exports[`startLineChars 182`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### #### This is it
+",
+}
+`;
+
+exports[`startLineChars 183`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 184`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "#### #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 185`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  #### This is it ",
+}
+`;
+
+exports[`startLineChars 186`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  #### This is it
+",
+}
+`;
+
+exports[`startLineChars 187`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 188`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "####  #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 189`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### #### This is it ",
+}
+`;
+
+exports[`startLineChars 190`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### #### This is it
+",
+}
+`;
+
+exports[`startLineChars 191`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 192`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+#### #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 193`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### #### This is it ",
+}
+`;
+
+exports[`startLineChars 194`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### #### This is it
+",
+}
+`;
+
+exports[`startLineChars 195`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 196`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " 
+#### #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 197`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  #### This is it ",
+}
+`;
+
+exports[`startLineChars 198`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  #### This is it
+",
+}
+`;
+
+exports[`startLineChars 199`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 200`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+####  #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 201`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "This is it",
+}
+`;
+
+exports[`startLineChars 202`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "####  #### This is it",
+}
+`;
+
+exports[`startLineChars 203`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+This is it",
+}
+`;
+
+exports[`startLineChars 204`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+This is it",
+}
+`;
+
+exports[`startLineChars 205`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+####  #### This is it",
+}
+`;
+
+exports[`startLineChars 206`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "This is it ",
+}
+`;
+
+exports[`startLineChars 207`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "This is it
+",
+}
+`;
+
+exports[`startLineChars 208`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "This is it 
+",
+}
+`;
+
+exports[`startLineChars 209`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "This is it
+ ",
+}
+`;
+
+exports[`startLineChars 210`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "####  #### This is it ",
+}
+`;
+
+exports[`startLineChars 211`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "####  #### This is it
+",
+}
+`;
+
+exports[`startLineChars 212`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "####  #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 213`] = `
+Object {
+  "selectionEnd": 21,
+  "selectionStart": 21,
+  "value": "####  #### This is it
+ ",
+}
+`;
+
+exports[`startLineChars 214`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+This is it ",
+}
+`;
+
+exports[`startLineChars 215`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+This is it
+",
+}
+`;
+
+exports[`startLineChars 216`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+This is it 
+",
+}
+`;
+
+exports[`startLineChars 217`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+This is it
+ ",
+}
+`;
+
+exports[`startLineChars 218`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+This is it ",
+}
+`;
+
+exports[`startLineChars 219`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+This is it
+",
+}
+`;
+
+exports[`startLineChars 220`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+This is it 
+",
+}
+`;
+
+exports[`startLineChars 221`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+This is it
+ ",
+}
+`;
+
+exports[`startLineChars 222`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+####  #### This is it ",
+}
+`;
+
+exports[`startLineChars 223`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+####  #### This is it
+",
+}
+`;
+
+exports[`startLineChars 224`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+####  #### This is it 
+",
+}
+`;
+
+exports[`startLineChars 225`] = `
+Object {
+  "selectionEnd": 22,
+  "selectionStart": 22,
+  "value": "
+####  #### This is it
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 1`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 2`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 3`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 4`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 5`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 6`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 7`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 8`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 9`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 10`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 11`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 12`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 13`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 14`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 15`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 16`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 17`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 18`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 19`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 20`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 21`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 22`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 23`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 24`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 25`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 26`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 27`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 28`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 29`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 30`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 31`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**foo** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 32`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**foo**
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 33`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**foo** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 34`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "**foo**
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 35`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **foo** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 36`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **foo**
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 37`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **foo** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 38`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " **foo**
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 39`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**foo** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 40`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**foo**
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 41`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**foo** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 42`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+**foo**
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 43`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**foo** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 44`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**foo**
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 45`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**foo** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 46`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+**foo**
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 47`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **foo** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 48`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **foo**
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 49`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **foo** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 50`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ **foo**
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 51`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 2,
+  "value": "**foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 52`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 3,
+  "value": " **foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 53`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 3,
+  "value": "
+**foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 54`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 4,
+  "value": " 
+**foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 55`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 4,
+  "value": "
+ **foo**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 56`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 2,
+  "value": "**foo **",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 57`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 2,
+  "value": "**foo
+**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 58`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 2,
+  "value": "**foo **
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 59`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 2,
+  "value": "**foo
+** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 60`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": " **foo **",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 61`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": " **foo
+**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 62`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": " **foo **
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 63`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": " **foo
+** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 64`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": "
+**foo **",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 65`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": "
+**foo
+**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 66`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": "
+**foo **
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 67`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 3,
+  "value": "
+**foo
+** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 68`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": " 
+**foo **",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 69`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": " 
+**foo
+**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 70`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": " 
+**foo **
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 71`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": " 
+**foo
+** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 72`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "
+ **foo **",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 73`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "
+ **foo
+**",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 74`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "
+ **foo **
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 75`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "
+ **foo
+** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 76`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 77`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 78`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 79`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 80`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 81`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 82`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 83`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 84`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 85`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 86`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 87`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 88`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " ********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 89`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 90`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 91`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 92`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 93`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 94`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 95`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 96`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " 
+********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 97`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 98`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 99`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 100`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+ ********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 101`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 102`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " ********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 103`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 104`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": " 
+********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 105`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "
+ ********",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 106`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 107`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 108`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 109`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 110`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " ******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 111`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " ********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 112`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " ******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 113`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": " ********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 114`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 115`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 116`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 117`] = `
+Object {
+  "selectionEnd": 7,
+  "selectionStart": 7,
+  "value": "
+********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 118`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": " 
+******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 119`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": " 
+********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 120`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": " 
+******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 121`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": " 
+********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 122`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "
+ ******** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 123`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "
+ ********
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 124`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "
+ ******** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 125`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 8,
+  "value": "
+ ********
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 126`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 127`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 128`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 129`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 130`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 131`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": " ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 132`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 133`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": " 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 134`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 135`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "  ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 136`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 137`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "  
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 138`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " 
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 139`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 140`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 141`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+ 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 142`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 143`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 144`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 145`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+ 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 146`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 147`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+  ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 148`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 149`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+  
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 150`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ 
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 151`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 152`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 153`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 154`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 155`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 156`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 157`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 158`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 159`] = `
+Object {
+  "selectionEnd": 0,
+  "selectionStart": 0,
+  "value": "foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 160`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 161`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 162`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 163`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": " foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 164`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 165`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 166`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 167`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "
+foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 168`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 169`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 170`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 171`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " 
+foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 172`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 173`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 174`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 175`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+ foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 176`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 177`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 178`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 179`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 180`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 181`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 182`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 183`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 184`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 185`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 186`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 187`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 188`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": " foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 189`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 190`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 191`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 192`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "
+foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 193`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 194`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 195`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 196`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " 
+foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 197`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 198`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 199`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 200`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+ foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 201`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "****foo****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 202`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": " ****foo****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 203`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": "
+****foo****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 204`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": " 
+****foo****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 205`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": "
+ ****foo****",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 206`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "****foo**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 207`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "****foo****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 208`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "****foo**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 209`] = `
+Object {
+  "selectionEnd": 8,
+  "selectionStart": 4,
+  "value": "****foo****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 210`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": " ****foo**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 211`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": " ****foo****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 212`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": " ****foo**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 213`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": " ****foo****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 214`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": "
+****foo**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 215`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": "
+****foo****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 216`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": "
+****foo**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 217`] = `
+Object {
+  "selectionEnd": 9,
+  "selectionStart": 5,
+  "value": "
+****foo****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 218`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": " 
+****foo**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 219`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": " 
+****foo****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 220`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": " 
+****foo**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 221`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": " 
+****foo****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 222`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": "
+ ****foo**** ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 223`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": "
+ ****foo****
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 224`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": "
+ ****foo**** 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 225`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 6,
+  "value": "
+ ****foo****
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 226`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 227`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 228`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 229`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " 
+foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 230`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+ foo",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 231`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 232`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 233`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 234`] = `
+Object {
+  "selectionEnd": 1,
+  "selectionStart": 1,
+  "value": "foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 235`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 236`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 237`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 238`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": " foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 239`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 240`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 241`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 242`] = `
+Object {
+  "selectionEnd": 2,
+  "selectionStart": 2,
+  "value": "
+foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 243`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " 
+foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 244`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " 
+foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 245`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " 
+foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 246`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": " 
+foo
+ ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 247`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+ foo ",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 248`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+ foo
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 249`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+ foo 
+",
+}
+`;
+
+exports[`surround feature - a whole bunch of stuff 250`] = `
+Object {
+  "selectionEnd": 3,
+  "selectionStart": 3,
+  "value": "
+ foo
+ ",
+}
+`;
+
+exports[`text 1`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT",
+}
+`;
+
+exports[`text 2`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT",
+}
+`;
+
+exports[`text 3`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT",
+}
+`;
+
+exports[`text 4`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT",
+}
+`;
+
+exports[`text 5`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT",
+}
+`;
+
+exports[`text 6`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT ",
+}
+`;
+
+exports[`text 7`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT
+",
+}
+`;
+
+exports[`text 8`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT 
+",
+}
+`;
+
+exports[`text 9`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT
+ ",
+}
+`;
+
+exports[`text 10`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT ",
+}
+`;
+
+exports[`text 11`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT
+",
+}
+`;
+
+exports[`text 12`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT 
+",
+}
+`;
+
+exports[`text 13`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT
+ ",
+}
+`;
+
+exports[`text 14`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT ",
+}
+`;
+
+exports[`text 15`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT
+",
+}
+`;
+
+exports[`text 16`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT 
+",
+}
+`;
+
+exports[`text 17`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT
+ ",
+}
+`;
+
+exports[`text 18`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT ",
+}
+`;
+
+exports[`text 19`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT
+",
+}
+`;
+
+exports[`text 20`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT 
+",
+}
+`;
+
+exports[`text 21`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT
+ ",
+}
+`;
+
+exports[`text 22`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT ",
+}
+`;
+
+exports[`text 23`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT
+",
+}
+`;
+
+exports[`text 24`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT 
+",
+}
+`;
+
+exports[`text 25`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT
+ ",
+}
+`;
+
+exports[`text 26`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT words",
+}
+`;
+
+exports[`text 27`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT words",
+}
+`;
+
+exports[`text 28`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT words",
+}
+`;
+
+exports[`text 29`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT words",
+}
+`;
+
+exports[`text 30`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT words",
+}
+`;
+
+exports[`text 31`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT words ",
+}
+`;
+
+exports[`text 32`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT words
+",
+}
+`;
+
+exports[`text 33`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT words 
+",
+}
+`;
+
+exports[`text 34`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT words
+ ",
+}
+`;
+
+exports[`text 35`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT words ",
+}
+`;
+
+exports[`text 36`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT words
+",
+}
+`;
+
+exports[`text 37`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT words 
+",
+}
+`;
+
+exports[`text 38`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT words
+ ",
+}
+`;
+
+exports[`text 39`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT words ",
+}
+`;
+
+exports[`text 40`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT words
+",
+}
+`;
+
+exports[`text 41`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT words 
+",
+}
+`;
+
+exports[`text 42`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT words
+ ",
+}
+`;
+
+exports[`text 43`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT words ",
+}
+`;
+
+exports[`text 44`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT words
+",
+}
+`;
+
+exports[`text 45`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT words 
+",
+}
+`;
+
+exports[`text 46`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT words
+ ",
+}
+`;
+
+exports[`text 47`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT words ",
+}
+`;
+
+exports[`text 48`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT words
+",
+}
+`;
+
+exports[`text 49`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT words 
+",
+}
+`;
+
+exports[`text 50`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT words
+ ",
+}
+`;
+
+exports[`text 51`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT",
+}
+`;
+
+exports[`text 52`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT",
+}
+`;
+
+exports[`text 53`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT",
+}
+`;
+
+exports[`text 54`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT",
+}
+`;
+
+exports[`text 55`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT",
+}
+`;
+
+exports[`text 56`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT",
+}
+`;
+
+exports[`text 57`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT",
+}
+`;
+
+exports[`text 58`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT
+",
+}
+`;
+
+exports[`text 59`] = `
+Object {
+  "selectionEnd": 4,
+  "selectionStart": 4,
+  "value": "TEXT ",
+}
+`;
+
+exports[`text 60`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT",
+}
+`;
+
+exports[`text 61`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT",
+}
+`;
+
+exports[`text 62`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT
+",
+}
+`;
+
+exports[`text 63`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": " TEXT ",
+}
+`;
+
+exports[`text 64`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT",
+}
+`;
+
+exports[`text 65`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT",
+}
+`;
+
+exports[`text 66`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT
+",
+}
+`;
+
+exports[`text 67`] = `
+Object {
+  "selectionEnd": 5,
+  "selectionStart": 5,
+  "value": "
+TEXT ",
+}
+`;
+
+exports[`text 68`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT",
+}
+`;
+
+exports[`text 69`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT",
+}
+`;
+
+exports[`text 70`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT
+",
+}
+`;
+
+exports[`text 71`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": " 
+TEXT ",
+}
+`;
+
+exports[`text 72`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT",
+}
+`;
+
+exports[`text 73`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT",
+}
+`;
+
+exports[`text 74`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT
+",
+}
+`;
+
+exports[`text 75`] = `
+Object {
+  "selectionEnd": 6,
+  "selectionStart": 6,
+  "value": "
+ TEXT ",
+}
+`;
+
+exports[`text 76`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "words TEXT",
+}
+`;
+
+exports[`text 77`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " words TEXT",
+}
+`;
+
+exports[`text 78`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+words TEXT",
+}
+`;
+
+exports[`text 79`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+words TEXT",
+}
+`;
+
+exports[`text 80`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ words TEXT",
+}
+`;
+
+exports[`text 81`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "words TEXT ",
+}
+`;
+
+exports[`text 82`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "words TEXT
+",
+}
+`;
+
+exports[`text 83`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "words TEXT 
+",
+}
+`;
+
+exports[`text 84`] = `
+Object {
+  "selectionEnd": 10,
+  "selectionStart": 10,
+  "value": "words TEXT
+ ",
+}
+`;
+
+exports[`text 85`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " words TEXT ",
+}
+`;
+
+exports[`text 86`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " words TEXT
+",
+}
+`;
+
+exports[`text 87`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " words TEXT 
+",
+}
+`;
+
+exports[`text 88`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": " words TEXT
+ ",
+}
+`;
+
+exports[`text 89`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+words TEXT ",
+}
+`;
+
+exports[`text 90`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+words TEXT
+",
+}
+`;
+
+exports[`text 91`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+words TEXT 
+",
+}
+`;
+
+exports[`text 92`] = `
+Object {
+  "selectionEnd": 11,
+  "selectionStart": 11,
+  "value": "
+words TEXT
+ ",
+}
+`;
+
+exports[`text 93`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+words TEXT ",
+}
+`;
+
+exports[`text 94`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+words TEXT
+",
+}
+`;
+
+exports[`text 95`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+words TEXT 
+",
+}
+`;
+
+exports[`text 96`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": " 
+words TEXT
+ ",
+}
+`;
+
+exports[`text 97`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ words TEXT ",
+}
+`;
+
+exports[`text 98`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ words TEXT
+",
+}
+`;
+
+exports[`text 99`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ words TEXT 
+",
+}
+`;
+
+exports[`text 100`] = `
+Object {
+  "selectionEnd": 12,
+  "selectionStart": 12,
+  "value": "
+ words TEXT
+ ",
+}
+`;
