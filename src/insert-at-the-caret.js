@@ -134,7 +134,7 @@ var _work = function(textarea, obj) {
   return _workInsert(front, highlighted, back, caretStart, obj);
 };
 
-var insertAtCaret = function(textarea, obj) {
+var insertAtTheCaret = function(textarea, obj) {
   var r = _work(textarea, obj);
   textarea.value = r.value;
   textarea.selectionStart = r.selectionStart;
@@ -143,6 +143,6 @@ var insertAtCaret = function(textarea, obj) {
 };
 
 module.exports = {
-  insertAtCaret: insertAtCaret,
+  insertAtTheCaret: insertAtTheCaret,
   _work: _work
 };
