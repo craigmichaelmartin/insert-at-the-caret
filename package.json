@@ -1,6 +1,6 @@
 {
   "name": "insert-at-the-caret",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "browser": "src/insert-at-the-caret.js",
   "main": "src/insert-at-the-caret.js",
   "engines": {
