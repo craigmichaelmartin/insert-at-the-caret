@@ -16,4 +16,4 @@ npm install --save insert-at-the-caret
 
 ## Demo
 
-`insert-at-the-caret` powers (`markdown-textarea-editor`)[https://github.com/craigmichaelmartin/markdown-textarea-editor] which has a demo https://craigmichaelmartin.github.io/markdown-textarea-editor/
+`insert-at-the-caret` powers [`markdown-textarea-editor`](https://github.com/craigmichaelmartin/markdown-textarea-editor) which has a demo https://craigmichaelmartin.github.io/markdown-textarea-editor/
